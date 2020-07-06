@@ -1,0 +1,6 @@
+export const GraphActionTypes={
+	QUERRY_IN:"QUERRY_IN",
+	MAIN_NODE_IN:"MAIN_NODE_IN",
+	PREV_NODE_IN:"PREV_NODE_IN",
+	INTENTS_IN:"INTENTS_IN"
+};
